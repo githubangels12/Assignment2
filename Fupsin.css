@@ -45,10 +45,12 @@ font-size: larger;
 }
 .Eat{
     height: 40px; 
-    width: 40px; 
-    margin-left: 400px;
+    width: 100px; 
+    margin-left: 350px;
 }
 .Health{
     margin: 15px;
 }
-
+.Fit{
+    height: 602px;
+}
